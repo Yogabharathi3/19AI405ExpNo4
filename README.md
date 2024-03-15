@@ -1,9 +1,9 @@
-<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
-<H3>Aim:</H3>
-<p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
-<H3>Algorithm:</H3>
+## ExpNo 4 : Implement A* search algorithm for a Graph
+#### Name: Saravanan N
+#### Register Number/Staff Id: TSML006
+## Aim:
+To ImplementA * Search algorithm for a Graph using Python 3.
+## Algorithm:
 
 ``````
 // A* Search Algorithm
@@ -50,7 +50,7 @@
 
 ``````
 
-<hr>
+
 ## Program:
 ```
 from collections import defaultdict
@@ -156,14 +156,14 @@ Graph_nodes=graph
 print(graph)
 aStarAlgo('S', 'G')
 ```
-<h2>Sample Graph I</h2>
-<hr>
+##  Sample Graph I
+
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
-<hr>
-<h2>Sample Input</h2>
-<hr>
+
+## Sample Input
+
 10 14 <br>
 A B 6 <br>
 A F 3 <br>
